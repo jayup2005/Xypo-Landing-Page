@@ -1,0 +1,127 @@
+@media only screen and (max-width: 850px){
+.container{
+    margin: 0  70px;
+}
+h1{
+    font-size: 30px;
+}
+
+.contact-right img{
+    width: 95%;
+    padding: 0 18px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px){
+    #header{
+        background-image: none;
+    }
+
+    .container{
+
+        margin: 0  50px;
+    }
+    
+    .logo{
+        margin-top: 27px;
+        width: 70px;
+    }
+    
+    .header-text{
+    
+      
+        margin-top: 100px;
+    
+    }
+    
+    h1{
+        font-size: 25px;
+    }
+
+    #menu-btn{
+        width: 40px;
+      
+        right: 50px;
+        
+     
+    }
+
+    .common-btn{
+
+        padding: 10px 16px;
+       
+    }
+    
+    .social-icons img{
+       
+        width: 14px;
+        margin: 15px auto;
+      
+    }
+
+    .about-left-col{
+        flex-basis: 100%;
+    }
+    
+    .about-right-col{
+        flex-basis: 100%;
+       
+    }
+
+    .about-text{
+       
+        margin: 50px 50px 0;
+        display: inline-block;
+    }
+
+    .about-text h2{
+       
+        font-size: 18px;
+       
+    }
+
+    .feature-col{
+        flex-basis:100%;
+       margin-bottom: 20px;
+        
+    }
+    
+    .course-left-col{
+        flex-basis: 100%;
+    }
+
+    .course-right-col{
+        flex-basis: 100%;
+        margin-top: 70px;
+    }
+
+    .contact-left , .contact-right{
+
+        flex-basis: 100%;
+    }
+
+    .contact-right{
+        margin-top: 15px;
+    }
+
+    .footer-left{
+        flex-basis: 100%;
+   
+    }
+
+    .link-title {
+     flex-basis: 50%;
+     margin-bottom: 30px;
+    }
+    
+}
